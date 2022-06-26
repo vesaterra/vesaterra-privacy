@@ -1,7 +1,7 @@
 PRIVACY POLICY
 ----------------
 
-The Vesa Terra app and Shyamala Pandey take your privacy very seriously. Beyond the information Google provides to developers that the user (will be referred to as "you" and "your) can decide to provide, the Vesa Terra app uses no third-party analytics or advertising frameworks. 
+The Vesa Terra app and Shyamala Pandey take your privacy very seriously. Beyond the information Google and Apple provides to developers that the user (will be referred to as "you" and "your) can decide to provide, the Vesa Terra app uses no third-party analytics or advertising frameworks. 
 
 Shyamala Pandey (will be referred to as "the Owner" and "The Owner") logs no information on you and has no interest in doing such, nor does Vesa Terra connect to the internet.
 
